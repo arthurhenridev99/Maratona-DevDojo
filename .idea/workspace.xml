@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46eeabc9-099e-4951-82ef-92a98feecf72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maratona-DevDojo/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maratona-DevDojo/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicios.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula04Operadores.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula07Arrays01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula07Arrays02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula07Arrays03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula08ArraysMultidimensionais01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula08ArraysMultidimensionais02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/CarroTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Estudante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/ImpressoraEstudante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maratona-DevDojo/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maratona-DevDojo/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maratona-DevDojo/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maratona-DevDojo/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Estudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maratona-DevDojo/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/ImpressoraEstudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maratona-DevDojo/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/ImpressoraEstudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maratona-DevDojo/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maratona-DevDojo/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula04Operadores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula07Arrays01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula07Arrays02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula07Arrays03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula08ArraysMultidimensionais01.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Maratona-DevDojo" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2zsysmplkD7NnoJTG5RsXbr5toM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalculadoraTest05.executor": "Run",
+    "Application.EstudanteTest01.executor": "Run",
+    "Application.EstudanteTest02.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "vcs.log"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46eeabc9-099e-4951-82ef-92a98feecf72" name="Changes" comment="" />
+      <created>1752534284757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752534284757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
